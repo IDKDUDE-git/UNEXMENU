@@ -1,4 +1,4 @@
-# UNEX (United Exploit Toolkit)
+# UNEX (United Exploit Toolkit for Termux)
 
 UNEX, Termux (Android) ve Linux ortamları için geliştirilmiş modern, modüler ve kullanımı kolay bir araç yöneticisi ve yükleyicisidir.
 
