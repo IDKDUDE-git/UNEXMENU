@@ -9,7 +9,7 @@ UNEX, Termux (Android) ve Linux ortamları için geliştirilmiş modern, modüle
 - **Renkli Arayüz:** Colorama tabanlı modern ve şık CLI tasarımı.
 
 ## 👥 Takım (Team Unex)
-- UNEX-project 
+- IDKDUDE 
 - ZelderSlaw 
 ## 🛠️ Kurulum
 
