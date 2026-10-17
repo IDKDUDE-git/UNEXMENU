@@ -10,7 +10,8 @@ UNEX, Termux (Android) ve Linux ortamları için geliştirilmiş modern, modüle
 
 ## 👥 Takım (Team Unex)
 - IDKDUDE 
-- ZelderSlaw 
+- ZelderSlaw
+- UnexYeah
 ## 🛠️ Kurulum
 
 ```bash
